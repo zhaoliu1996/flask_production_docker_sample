@@ -1,0 +1,6 @@
+version: '3'
+services:
+  flask:
+    image: testflask_image
+    ports:
+      - "80:80"

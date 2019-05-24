@@ -1,2 +1,2 @@
 # flask_production_docker_sample
-balabala
+Simple Flask production server in docker with uwsgi nginx.
